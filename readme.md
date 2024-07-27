@@ -5,7 +5,12 @@
 firebase init
 ```
 after init you can coding 
+## Setup Env
+```
+firebase functions:config:set <name-env>="https://xxxxxx
+```
 if finish 
+
 ## Deploy to firebase functions
 it's easy!!
 
